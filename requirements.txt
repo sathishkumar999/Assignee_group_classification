@@ -1,0 +1,5 @@
+fastapi==0.95.1
+pandas==1.5.3
+pycaret==3.0.0rc8
+pydantic==1.8.1
+uvicorn==0.13.2
