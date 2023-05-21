@@ -13,7 +13,7 @@ D:\classification>uvicorn classifier_app:app --reload
 
 fetch and train endpoint:
 -------------------------
-the below url is used to fetching the customer data from the postegresql server, preprpcessing, training and saving the best model.
+the below url is used to fetching the customer data from the postegresql server (or) customer_data, preprpcessing, training and saving the best model.
 method:post
 url: http://127.0.0.1:8000/auto_train_assigned_group/
 
